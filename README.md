@@ -1,9 +1,3 @@
-Nhìn qua là biết đoạn text này của bạn bị **"vỡ" do lỗi định dạng Markdown** khi copy-paste từ một file README (hoặc file tài liệu có bảng, block code) vào thẳng khung chat mà không xuống dòng đúng cách. Các thẻ bảng (`|`), ký tự xuống dòng và thẻ code (`#`) dính chùm vào nhau nên trình duyệt không render được.
-
-Mình đã giúp bạn **re-format (định dạng lại) chuẩn chỉnh 100% bằng Markdown** để nhìn trực quan, scannable và chuyên nghiệp đúng nghĩa một file tài liệu dự án nhé:
-
----
-
 # 📚 Plugin Quản Lý Học Sinh – WordPress
 
 **Đề tài môn**: Phần Mềm Mã Nguồn Mở | **Trường**: Đại học Điện Lực | **Lớp**: D18CNPM5
